@@ -1,4 +1,4 @@
-# Employee Management System
+# Employee Management System Developed by Eshrat Jamil
 
 ## Project Overview
 
